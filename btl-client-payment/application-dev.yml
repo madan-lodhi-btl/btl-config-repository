@@ -1,0 +1,5 @@
+applicationconfigutation:
+  host: http://localhost
+  port: 8981
+  username: client-payment-dev
+  password: client-payment-dev

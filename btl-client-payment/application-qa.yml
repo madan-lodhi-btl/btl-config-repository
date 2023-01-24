@@ -1,0 +1,5 @@
+applicationconfigutation:
+  host: http://localhost
+  port: 8983
+  username: client-payment-qa
+  password: client-payment-qa
