@@ -1,0 +1,5 @@
+applicationconfigutation:
+  host: http://localhost
+  port: 3305
+  username: client-config-dev
+  password: client-config-dev
