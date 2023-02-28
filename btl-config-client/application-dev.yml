@@ -2,4 +2,4 @@ applicationconfigutation:
   host: http://localhost
   port: 8981
   username: client-config-dev
-  password: client_config_dev
+  password: pwd
